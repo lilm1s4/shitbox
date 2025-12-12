@@ -1,0 +1,29 @@
+2025-12-12 04:57:13 INFO  org.example.NetLoadApp - GUI start
+2025-12-12 04:57:13 INFO  org.example.NetLoadApp - Приложение запущено.
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Генератор старт: host=127.0.0.1, port=5000, count=5, size=128
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Generator started
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Отправлен пакет #0 (128 bytes)
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Отправлен пакет #1 (128 bytes)
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Отправлен пакет #2 (128 bytes)
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Отправлен пакет #3 (128 bytes)
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Отправлен пакет #4 (128 bytes)
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Генератор завершён.
+2025-12-12 04:57:26 INFO  org.example.NetLoadApp - Generator finished
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Генератор старт: host=127.0.0.1, port=5000, count=5, size=128
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Generator started
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Отправлен пакет #0 (128 bytes)
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Отправлен пакет #1 (128 bytes)
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Отправлен пакет #2 (128 bytes)
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Отправлен пакет #3 (128 bytes)
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Отправлен пакет #4 (128 bytes)
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Генератор завершён.
+2025-12-12 04:57:30 INFO  org.example.NetLoadApp - Generator finished
+2025-12-12 04:57:32 INFO  org.example.NetLoadApp - Приёмник старт: port=5000, expected=100
+2025-12-12 04:57:32 INFO  org.example.NetLoadApp - Receiver started
+2025-12-12 04:57:34 ERROR org.example.NetLoadApp - Уже запущено. Дождитесь завершения.
+2025-12-12 04:57:42 INFO  org.example.NetLoadApp - Приём завершён. Принято=0, ожидалось=100
+2025-12-12 04:57:42 INFO  org.example.NetLoadApp - Receiver finished: received=0, expected=100, loss=100.0%
+2025-12-12 04:57:55 INFO  org.example.NetLoadApp - Приёмник старт: port=5000, expected=100
+2025-12-12 04:57:55 INFO  org.example.NetLoadApp - Receiver started
+2025-12-12 04:58:05 INFO  org.example.NetLoadApp - Приём завершён. Принято=0, ожидалось=100
+2025-12-12 04:58:05 INFO  org.example.NetLoadApp - Receiver finished: received=0, expected=100, loss=100.0%
